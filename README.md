@@ -1,2 +1,2 @@
 # FunProjects
-Projects I created and practice
+Projects I create
